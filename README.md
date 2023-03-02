@@ -22,11 +22,11 @@ Here are some ideas to get you started:
   
   ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FACCBB,100:F2A4AF&text=Welcome%20to%20my%20github&fontColor=FFFFFF&fontSize=52&fontAlignY=40)
   
-  <h3>:school: I’m currently learning at CNU</h3>   
+  <h4>:school: I’m currently learning computer science at CNU</h4>
   </br>
-  <h3>:fire: TECHS</h3>   
+  <h2>:fire: Techs</h2>   
   
-  <h4>that I've used at least once</h4>
+  <h3>that I've used at least once</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF">
