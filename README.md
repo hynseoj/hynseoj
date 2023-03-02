@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <!--<img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">-->
+  <!--![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FACCBB,100:F2A4AF&text=Welcome%20to%20my%20github&fontColor=FFFFFF&fontSize=52&fontAlignY=40)-->
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FACCBB,100:F2A4AF&text=Welcome%20to%20my%20github&fontColor=FFFFFF&fontSize=52&fontAlignY=40)
+  </br>
   
-  <h4>:school: I’m currently learning computer science at CNU</h4>
+  ![header](https://capsule-render.vercel.app/api?type=soft&height=120&color=FFFFFF&text=Welcome%20to%20my%20github&fontColor=A6D392&fontSize=52&fontAlignY=40&animation=fadeIn)
+  
+  <h3>:school: I’m currently learning computer science and engineering at CNU</h3>
   </br>
   <h2>:fire: Techs</h2>   
   
@@ -45,5 +48,7 @@ Here are some ideas to get you started:
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wjdgustj20&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdgustj20&theme=solarized)   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wjdgustj20&theme=solarized)
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=A6D392&section=footer)
   
 </div>
