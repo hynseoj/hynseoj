@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FACCBB,100:F2A4AF) -->
-<!-- &text=ZOEY&fontColor=FFFFFF&fontSize=52&fontAlign=18&fontAlignY=40 -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FACCBB,100:F2A4AF&text=ZOEY&fontColor=FFFFFF&fontSize=52&fontAlign=18&fontAlignY=40) -->
 
 <div align="center">
   <!--<img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">-->
