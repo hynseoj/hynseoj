@@ -48,8 +48,8 @@ Here are some ideas to get you started:
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wjdgustj20&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdgustj20&theme=solarized)   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wjdgustj20&theme=solarized)
   
-<!--   </br> -->
+  </br>
   
-<!--   ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=c0dda4&section=footer) -->
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=D9E9A4&section=footer)
   
 </div>
