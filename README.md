@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   </br>
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&height=120&color=FFFFFF&text=Welcome%20to%20my%20github&fontColor=B0DEED&fontSize=52&fontAlignY=40&animation=fadeIn&stroke=AACAD4&strokeWidth=1)
+  ![header](https://capsule-render.vercel.app/api?type=soft&height=120&color=FFFFFF&text=Welcome%20to%20my%20github&fontColor=B0DEED&fontSize=52&fontAlignY=40&animation=fadeIn&stroke=B2D5E0&strokeWidth=1)
   
   <h3>:school: I’m currently learning computer science and engineering at CNU</h3>
   </br>
