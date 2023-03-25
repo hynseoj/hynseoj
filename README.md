@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   </br>
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&height=120&color=FFFFFF&text=holololololo&fontColor=B0DEED&fontSize=52&fontAlignY=40&animation=fadeIn&stroke=B2D5E0&strokeWidth=1)
+  ![header](https://capsule-render.vercel.app/api?type=soft&height=80&color=FFFFFF&text=holololololo&fontColor=F5BB6B&fontSize=52&fontAlignY=40&animation=fadeIn&stroke=D0A253&strokeWidth=1)
   
   <h3>:school: I’m currently learning computer science and engineering at CNU</h3>
   </br>
@@ -45,11 +45,11 @@ Here are some ideas to get you started:
   </br>
   </br>
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wjdgustj20&theme=nord_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdgustj20&theme=nord_dark)   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wjdgustj20&theme=nord_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wjdgustj20&theme=zenburn)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdgustj20&theme=zenburn)   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wjdgustj20&theme=zenburn)
   
   </br>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=135&color=B0DEED&section=footer)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=135&color=6EAF7F&section=footer)
   
 </div>
