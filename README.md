@@ -1,55 +1,37 @@
+</br>
 
-<!--
-**wjdgustj20/wjdgustj20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=6AD4DD&width=435&height=70&lines=Hi,+I'm+Hyunseo.)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<h3><img src="https://img.icons8.com/?size=100&id=Ef10FbRv65UX&format=png&color=000000" width="20" height="20"/> About Me</h3>
+I am an aspiring backend developer with a passion for building efficient and scalable systems with Spring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+</br>
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FACCBB,100:F2A4AF&text=ZOEY&fontColor=FFFFFF&fontSize=52&fontAlign=18&fontAlignY=40) -->
+<h3><img src="https://img.icons8.com/?size=100&id=ImCrEX6dngpa&format=png&color=000000" width="20" height="20"/> Contact</h3>
 
-<div align="center">
-  <!--<img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">-->
-  <!--![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FACCBB,100:F2A4AF&text=Welcome%20to%20my%20github&fontColor=FFFFFF&fontSize=52&fontAlignY=40)-->
-  
-  </br>
-  
-  ![header](https://capsule-render.vercel.app/api?type=soft&height=80&color=FFFFFF&text=holololololo&fontColor=F5BB6B&fontSize=52&fontAlignY=40&animation=fadeIn&stroke=D0A253&strokeWidth=1)
-  
-  <h3>:school: I’m currently learning computer science and engineering at CNU</h3>
-  </br>
-  <h2>:fire: Techs</h2>   
-  
-  <h3>that I've used at least once</h3>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=OCaml&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=FFFFFF">
-  </br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=FFFFFF">
-  </br>
-  </br>
-  </br>
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wjdgustj20&theme=zenburn)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wjdgustj20&theme=zenburn)   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wjdgustj20&theme=zenburn)
-  
-  </br>
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=135&color=6EBF7F&section=footer)
-  
+jhs2877@gmail.com
+
+</br>
+
+<h3><img src="https://img.icons8.com/?size=100&id=LiyXi9jFrVag&format=png&color=000000" width="20" height="20"/> Stacks</h3>
+<div class='row'>
+    <img src="https://img.shields.io/badge/Spring-6AD4DD?style=flat&logo=Spring&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Spring Boot-6AD4DD?style=flat&logo=Spring Boot&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Java-7AA2E3?style=flat&logo=Java&logoColor=000000">
+    |
+    <img src="https://img.shields.io/badge/Docker-97E7E1?style=flat&logo=Docker&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Python-F8F6E3?style=flat&logo=Python&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/MySQL-97E7E1?style=flat&logo=MySQL&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/Oracle-F8F6E3?style=flat&logo=Oracle&logoColor=FFFFFF">
 </div>
+
+</br>
+
+<h3><img src="https://img.icons8.com/?size=100&id=8dzhorYDcX5G&format=png&color=000000" width="20" height="20"/> Experiences</h3>
+
+Kakao Tech Campus 2nd generation &nbsp;&nbsp;|&nbsp;&nbsp; 2024.04 - now   
+
+Joint Hackathon for SWUniv 2023 &nbsp;&nbsp;|&nbsp;&nbsp; 2023.06.   
+
+CNU SW Academy 2nd generation &nbsp;&nbsp;|&nbsp;&nbsp; 2023.01 - 2023.04
