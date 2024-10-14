@@ -18,12 +18,15 @@ jhs2877@gmail.com
 <div class='row'>
     <img src="https://img.shields.io/badge/Spring-6AD4DD?style=flat&logo=Spring&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Spring Boot-6AD4DD?style=flat&logo=Spring Boot&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/Java-7AA2E3?style=flat&logo=Java&logoColor=000000">
-    |
+    <img src="https://img.shields.io/badge/Java-7AA2E3?style=flat&logo=openjdk&logoColor=FFFFFF"/>
+    </br>
+    <img src="https://img.shields.io/badge/MySQL-97E7E1?style=flat&logo=MySQL&logoColor=FFFFFF"/>
+    </br>
     <img src="https://img.shields.io/badge/Docker-97E7E1?style=flat&logo=Docker&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/Python-F8F6E3?style=flat&logo=Python&logoColor=FFFFFF">
-    <img src="https://img.shields.io/badge/MySQL-97E7E1?style=flat&logo=MySQL&logoColor=FFFFFF">
-    <img src="https://img.shields.io/badge/Oracle-F8F6E3?style=flat&logo=Oracle&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/AWS-97E7E1?style=flat&logo=amazon&logoColor=FFFFFF"/>
+    </br>
+    <img src="https://img.shields.io/badge/Flask-F8F6E3?style=flat&logo=Flask&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Python-F8F6E3?style=flat&logo=Python&logoColor=FFFFFF"/>
 </div>
 
 </br>
