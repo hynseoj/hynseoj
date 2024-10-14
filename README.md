@@ -35,3 +35,8 @@ Kakao Tech Campus 2nd generation &nbsp;&nbsp;|&nbsp;&nbsp; 2024.04 - now
 Joint Hackathon for SWUniv 2023 &nbsp;&nbsp;|&nbsp;&nbsp; 2023.06.   
 
 CNU SW Academy 2nd generation &nbsp;&nbsp;|&nbsp;&nbsp; 2023.01 - 2023.04
+
+
+<!-- color palette: https://colorhunt.co/palette/f8f6e397e7e16ad4dd7aa2e3 -->
+<!-- icon: https://icons8.kr/icon/set/popular/3d-plastilina -->
+
