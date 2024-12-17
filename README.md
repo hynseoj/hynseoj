@@ -33,7 +33,7 @@ jhs2877@gmail.com
 
 <h3><img src="https://img.icons8.com/?size=100&id=8dzhorYDcX5G&format=png&color=000000" width="20" height="20"/> Experiences</h3>
 
-Kakao Tech Campus 2nd generation &nbsp;&nbsp;|&nbsp;&nbsp; 2024.04 - now   
+Kakao Tech Campus 2nd generation &nbsp;&nbsp;|&nbsp;&nbsp; 2024.04. - 2024.11.   
 
 Joint Hackathon for SWUniv 2023 &nbsp;&nbsp;|&nbsp;&nbsp; 2023.06.   
 
