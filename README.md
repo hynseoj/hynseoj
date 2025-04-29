@@ -17,7 +17,7 @@ jhs2877@gmail.com
 <h3><img src="https://img.icons8.com/?size=100&id=LiyXi9jFrVag&format=png&color=000000" width="20" height="20"/> Stacks</h3>
 <div class='row'>
     <img src="https://img.shields.io/badge/Spring-6AD4DD?style=flat&logo=Spring&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/Spring Boot-6AD4DD?style=flat&logo=Spring Boot&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-6AD4DD?style=flat&logo=Spring%20Boot&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Java-7AA2E3?style=flat&logo=openjdk&logoColor=FFFFFF"/>
     </br>
     <img src="https://img.shields.io/badge/MySQL-97E7E1?style=flat&logo=MySQL&logoColor=FFFFFF"/>
